@@ -1,2 +1,2 @@
-<img src="./dayoff.jpg"></img>
-<img src="./dayoff.jpg1"></img>
+<img src="./public/dayoff.jpg"></img>
+<img src="./public/dayoff1.jpg"></img>
